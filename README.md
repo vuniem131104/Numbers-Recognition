@@ -1,0 +1,7 @@
+- Use RandomForestClassifier Model to classify 5 numbers: 1, 2, 3, 4, 5
+- If you want to clone this repo and try with your own data, please follow steps below:
+  - Run collect_data.py (this file is very useful if you want to gather data yourself in the future) on your IDE and follow steps on your own camera to collect data
+  - Collect information (data for model) from images that you've generate by running collec_information.py
+  - Run train.py to test accuracy on test data set
+  - Run test_on_camera.py and see the result
+  - Good Luck
